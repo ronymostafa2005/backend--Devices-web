@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Smart Watch Pro",
+    "description": "AMOLED display, heart rate and SpO2 sensors, GPS, and multi-day battery. Pairs with iOS and Android for notifications and workouts.",
+    "price": 249.99,
+    "category": "smart-devices",
+    "images": ["https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=800&q=80"],
+    "stock": 40,
+    "isActive": true
+  },
+  {
+    "name": "5G Smartphone",
+    "description": "Flagship triple-lens camera, 120Hz OLED screen, fast charging, and 256GB storage for photos, games, and apps.",
+    "price": 899,
+    "category": "smart-devices",
+    "images": ["https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80"],
+    "stock": 22,
+    "isActive": true
+  },
+  {
+    "name": "Noise-Canceling Earbuds",
+    "description": "True wireless earbuds with active noise cancellation, transparency mode, and wireless charging case for commute and travel.",
+    "price": 179.5,
+    "category": "audio",
+    "images": ["https://images.unsplash.com/photo-1590658268037-6b36369b5303?auto=format&fit=crop&w=800&q=80"],
+    "stock": 65,
+    "isActive": true
+  },
+  {
+    "name": "Smart Speaker Voice",
+    "description": "Hands-free voice assistant, room-filling 360 sound, and smart home routines compatible with major platforms.",
+    "price": 99,
+    "category": "smart-home",
+    "images": ["https://images.unsplash.com/photo-1589492660885-5d9cb4963802?auto=format&fit=crop&w=800&q=80"],
+    "stock": 50,
+    "isActive": true
+  },
+  {
+    "name": "Tablet 11 inch",
+    "description": "Thin lightweight tablet with stylus support, ideal for notes, streaming, and light productivity on the go.",
+    "price": 429,
+    "category": "smart-devices",
+    "images": ["https://images.unsplash.com/photo-1544244015-0df4b3ffc6b6?auto=format&fit=crop&w=800&q=80"],
+    "stock": 30,
+    "isActive": true
+  },
+  {
+    "name": "Fitness Tracker Band",
+    "description": "24/7 activity tracking, sleep stages, guided breathing, and water resistance for swimming and daily wear.",
+    "price": 59.99,
+    "category": "wearables",
+    "images": ["https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?auto=format&fit=crop&w=800&q=80"],
+    "stock": 90,
+    "isActive": true
+  },
+  {
+    "name": "4K Smart TV 55",
+    "description": "HDR streaming apps built-in, voice remote, and low-latency mode for movies and console gaming in the living room.",
+    "price": 649,
+    "category": "smart-home",
+    "images": ["https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=800&q=80"],
+    "stock": 12,
+    "isActive": true
+  },
+  {
+    "name": "Smart Security Camera",
+    "description": "1080p night vision, motion alerts to your phone, two-way audio, and easy wall or shelf mounting indoors.",
+    "price": 79,
+    "category": "smart-home",
+    "images": ["https://images.unsplash.com/photo-1557324234-fc0aadb9adab?auto=format&fit=crop&w=800&q=80"],
+    "stock": 45,
+    "isActive": true
+  },
+  {
+    "name": "USB-C Power Bank 20K",
+    "description": "High-capacity portable battery with PD fast charge for laptop, phone, and tablet during travel or outages.",
+    "price": 45.99,
+    "category": "accessories",
+    "images": ["https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?auto=format&fit=crop&w=800&q=80"],
+    "stock": 100,
+    "isActive": true
+  },
+  {
+    "name": "Wireless Charging Pad",
+    "description": "Qi-certified fast wireless charger with non-slip surface, works with phones and earbuds cases overnight.",
+    "price": 34,
+    "category": "accessories",
+    "images": ["https://images.unsplash.com/photo-1591290619762-fa06e09e0d08?auto=format&fit=crop&w=800&q=80"],
+    "stock": 75,
+    "isActive": true
+  },
+  {
+    "name": "Mesh WiFi System",
+    "description": "Whole-home coverage with easy app setup, parental controls, and seamless roaming between satellite nodes.",
+    "price": 199,
+    "category": "networking",
+    "images": ["https://images.unsplash.com/photo-1606904825846-647eb07f5be2?auto=format&fit=crop&w=800&q=80"],
+    "stock": 28,
+    "isActive": true
+  },
+  {
+    "name": "4K Action Camera",
+    "description": "Waterproof rugged body, stabilization for sports, and Wi-Fi transfer to edit and share clips from your phone.",
+    "price": 319,
+    "category": "smart-devices",
+    "images": ["https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&w=800&q=80"],
+    "stock": 18,
+    "isActive": true
+  }
+]
